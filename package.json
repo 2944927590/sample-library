@@ -20,5 +20,8 @@
   "homepage": "https://github.com/2944927590/sample-library#readme",
   "dependencies": {
     "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^9.0.1"
   }
 }
