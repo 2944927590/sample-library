@@ -1,0 +1,9 @@
+[
+  {
+    "project": "online-editor",
+    "from": "../online-editor/dist/",
+    "to": "online-editor/dist/" 
+  }
+]
+
+
